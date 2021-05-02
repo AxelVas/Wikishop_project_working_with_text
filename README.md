@@ -1,5 +1,4 @@
 # Wikishop_project_working_with_text
-Проект "Викишоп" работа с текстом
 <br>
 <font color='black' size=6> <b>Проект для «Викишоп»</b></font>
 <br><br>
